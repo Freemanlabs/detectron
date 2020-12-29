@@ -1,0 +1,37 @@
+.error {
+  position: absolute;
+  width: 100%;
+  z-index: 99;
+
+  .card {
+    padding: 4.75rem 0;
+    .close {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      cursor: pointer;
+    }
+    i {
+      &.warning-icon {
+        color: #fdd261;
+        font-size: 30px;
+      }
+    }
+    .title {
+      color: #2b2d38;
+      margin-top: 12px;
+      font: normal 400 17px/32px OpenSans, sans-serif;
+      letter-spacing: 0;
+    }
+    .subtitle {
+      color: #60657b;
+      margin-top: 8px;
+      font: normal 400 16px/24px OpenSans, sans-serif;
+      letter-spacing: 0;
+    }
+    .upload-btn {
+      padding: 10px 30px;
+      margin-top: 25px;
+    }
+  }
+}

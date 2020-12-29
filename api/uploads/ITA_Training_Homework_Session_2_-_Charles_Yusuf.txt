@@ -1,0 +1,27 @@
+Charles Yusuf
+TA, Machine Learning for Signal Processing
+ITA Training Homework (Session 2)
+Conversation between me and a project team during office hours on Wed 30th, September 2020
+
+
+Question 1: Explaining your rationale
+
+“so the reason why I am asking about the dataset is that, from your proposal, we should be able to see how you want to capture the data for your project. Based on these, we would determine the feasibility of the project”.
+
+
+Question 2: Using funnelling (e.g. moving from general to specific questions or from simple to more complex or challenging questions)
+
+“so what techniques are you guys planning to use? or better put, what signal processing techniques are you guys planning to use? because we all know we are required to use ML technique, but what specific signal processing techniques will you guys use”.
+
+
+Question 3: Instructing rather than asking (e.g. "Tell me...", "Show me...")
+
+“you know what, just show me your proposal so I can access it carefully and advise you better”.
+
+
+Question 4: Rewording your question
+
+“Is this gonna be new to the body of knowledge? so what I mean is has there been any work like this or is there any existing work on constrained Kalman Filtering? or this is gonna be the first”
+
+Question 5: Giving example(s) to clarify your question
+“Do you guys have a fallback scope? So for example, if at mid-semester or much later on you find out that your proposed scope can’t be achieved by the end of the semester, do you guys have a narrower scope you can fall back to? I think it will be great to consider that”

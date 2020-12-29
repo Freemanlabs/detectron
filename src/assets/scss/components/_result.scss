@@ -1,0 +1,28 @@
+.result {
+  margin-bottom: 30px;
+
+  .progress_bar {
+    display: inline-block;
+  }
+  .text {
+    display: inline-block;
+    font-size: 26px;
+    font-weight: 300;
+    line-height: 32px;
+    margin-left: 37px;
+    max-width: 300px;
+    position: relative;
+    vertical-align: top;
+    margin-top: 10%;
+  }
+
+  .view-result {
+    margin-top: 20px;
+    color: #17a2b8;
+    cursor: pointer;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

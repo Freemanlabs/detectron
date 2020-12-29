@@ -1,0 +1,39 @@
+.text-form {
+  .card {
+    .textarea {
+      padding: 0px;
+      font: normal 400 16.5px/32px OpenSans, sans-serif;
+      border: none;
+      letter-spacing: -0.09px;
+
+      &::placeholder {
+        color: #8189a9;
+        opacity: 0.6;
+      }
+      &:focus::placeholder {
+        opacity: 0.3;
+      }
+
+      &.form-control:focus {
+        color: black;
+        border: none !important;
+        box-shadow: none;
+      }
+    }
+    label {
+      float: right;
+      margin-top: -30px;
+      cursor: pointer;
+
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+    button {
+      padding: 10px 30px;
+    }
+    .card-footer {
+      border-top: none;
+    }
+  }
+}

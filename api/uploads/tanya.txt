@@ -1,0 +1,9 @@
+The SPIDER_MIDDLEWARES setting is merged with the SPIDER_MIDDLEWARES_BASE setting defined in Scrapy (and not meant to be overridden) and then sorted by order to get the final sorted list of enabled middleware. 
+
+So for example, if at mid-semester or much later on you find out that your proposed scope can’t be achieved by the end of the semester.
+
+React is a library, not a framework. Unlike client-side MVC frameworks, like Backbone, Ember, and AngularJS, it makes no assumptions.
+
+I always setup a virtual environment. A virtual environment manages dependencies of the project and remain particular for the single project. It does not affect the system packages. 
+
+This feature was added in Flask 0.6 but can be achieved in older versions as well by subclassing the request object. For more information on that consult the Werkzeug documentation on file handling.
